@@ -1,6 +1,7 @@
 ---
 title: Welcome to Smark Reactor
 date: "2019-03-17"
+description: Introduction to Smark Reactor
 ---
 I'm launching this blog to discuss my thoughts on professional wrestling.
 
