@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Smark Reactor`,
     author: `Glendon Hardin`,
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `Wrestling analysis you never asked for.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
     social: {
       twitter: `SmarkReactor`,
@@ -63,7 +63,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `content/assets/gatsby-icon.png`,
+        icon: `content/assets/sr-logo-only.png`,
       },
     },
     `gatsby-plugin-offline`,

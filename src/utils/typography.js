@@ -7,17 +7,20 @@ Wordpress2016.overrideThemeStyles = () => {
       boxShadow: `none`,
     },
     "html": {
-      backgroundColor: '#282c35',
+      backgroundColor: '#d7d7d7',
     },
     "p": {
-      color: '#fff'
+      color: '#000'
     },
     "small": {
-      color: '#999'
+      color: '#6E6259'
     },
     "h1": {
-      color: '#ccc'
-}
+      color: '#002B49'
+    },
+    "a": {
+      color: '#00A3E0'
+    }
   }
 }
 
