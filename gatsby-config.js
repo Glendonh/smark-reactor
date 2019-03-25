@@ -3,7 +3,7 @@ module.exports = {
     title: `Smark Reactor`,
     author: `Glendon Hardin`,
     description: `Wrestling analysis you never asked for.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    siteUrl: `https://www.smarkreactor.com/`,
     social: {
       twitter: `SmarkReactor`,
     },
