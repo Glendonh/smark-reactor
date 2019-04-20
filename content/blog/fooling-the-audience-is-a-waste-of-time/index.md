@@ -1,0 +1,19 @@
+---
+title: Trying to fool the audience is a waste of time
+date: "2019-04-20"
+---
+Professional was built on the concept of working the audience. Convincing them that what they were watching was a legitimate sport. Today, virtually everyone knows that wrestling is fiction. Despite this, a number of promoters still seem to direct a great deal of effort into finding ways to fool the audience. Personally, I find those efforts to be incredibly misguided. They’re difficult to pull off, and even when they work, they often have more negative than positive consequences.
+
+It’s hard to fool modern wrestling fans. Well, at the very least, it’s hard to fool them for very long. In an era where every scoop from the newsletters ends up on the internet within hours, it’s enormously challenging to keep anything a secret. Sooner or later, fans are going to figure out the truth. When fans see through an attempt to “work the smarks” it tends to make them less invested in the product. It’s like a pathological liar swearing to you that this time he’s telling the truth. It doesn’t make the angle in question feel more real, it makes the entire show feel more fake.
+
+During the recent G1 Supercard Ring of Honor introduced the tag team formerly known as Enzo and Cass. Instead of using a traditional wrestling angle, they opted to try and work the fanbase. When Enzo and Cass stormed the ringside area, cameras cut away from the action, commentary made vague remarks about attention seeking behavior, and never mentioned the duo by name.
+
+Fan footage of the incident went viral, wrestling Twitter was full of speculation. Then the inevitable happened, people figured it out the truth. Some of them took a closer look at the footage, and figured it out for themselves. Other read updates from people like Dave Meltzer. Regardless, within the hour it was widely known that the segment was an angle.
+
+When fans realized it was and angle the general reaction seemed to be: “Well, that was stupid.” There was very little excitement about where the story was going. Instead, the angle undercut the show at hand because viewers in the arena and at home had all hopped on the internet trying to figure out what the hell was happening.
+
+Even when promotions are able to fool the audience, the results typically aren’t much better. In the build to their match at WreslteMania 34, Roman Reigns started cutting promos about how Brock Lesnar was a lazy part-time champion who didn’t want to be there. The angle even created the perception that Lesnar was no-showing events, when in reality he’d never been scheduled to work them. It was successful, the audience turned on Lesnar, but it also resulted in one of the worst received WrestleMania main events of all time.
+
+WWE had opted to base the angle around a perception that a lot of fans had of Brock Lesnar the performer. They brought that angle into their programming, and manipulated those feelings. It worked, fans were mad at Brock Lesnar, but they weren’t mad at his character. They were fed up with the performer, and the booking. As a result they completely hijacked the main event of WrestleMania. They didn’t want to see Brock Lesnar lose, they didn’t want to see him at all.
+
+Wrestling’s past may have been built on fooling the audience, but that era ended decades ago. The audience doesn’t want to be fooled anymore. We want fiction that we can believe in. Working us doesn’t serve that purpose.  Being convinced that one of the performers is a terrible person does not make me hate their character, and it doesn’t make me want to see them lose a fake fight. The failed attempts to work the auidence are even worse. Nothing feels more inauthentic than fiction pretending to be real. I’m not convinced that it’s still possible for an attempt to fool the audience to have a good outcome, and frankly I wish they’d stop trying.

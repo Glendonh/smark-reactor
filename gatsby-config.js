@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Smark Reactor`,
-    author: `Glendon Hardin`,
+    author: `Glendon`,
     description: `Wrestling analysis you never asked for.`,
     siteUrl: `https://www.smarkreactor.com/`,
     social: {
