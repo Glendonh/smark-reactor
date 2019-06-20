@@ -1,5 +1,6 @@
 import React from "react"
-import { Link } from "gatsby"
+import { Link, StaticQuery, graphql } from "gatsby"
+import Image from "gatsby-image"
 
 import { rhythm, scale } from "../utils/typography"
 
@@ -11,24 +12,23 @@ class Layout extends React.Component {
 
     if (location.pathname === rootPath) {
       header = (
-        <h1
-          style={{
-            ...scale(1.5),
-            marginBottom: rhythm(1.5),
-            marginTop: 0,
-          }}
-        >
-          <Link
-            style={{
-              boxShadow: `none`,
-              textDecoration: `none`,
-              color: `inherit`,
-            }}
-            to={`/`}
-          >
-            {title}
-          </Link>
-        </h1>
+        <StaticQuery
+          query={logoQuery}
+          render={data => (
+            <div
+              style={{
+                flex: 1,
+                flexDirection: "column",
+                display: "flex",
+                alignItems: "center",
+                overflow: "visible",
+                justifyContent: "center",
+              }}
+            >
+              <Image fixed={data.logo.childImageSharp.fixed} />
+            </div>
+          )}
+        />
       )
     } else {
       header = (
@@ -71,5 +71,17 @@ class Layout extends React.Component {
     )
   }
 }
+
+const logoQuery = graphql`
+  query LogoQuery {
+    logo: file(absolutePath: { regex: "/sr-icon.png/" }) {
+      childImageSharp {
+        fixed(width: 300, height: 300) {
+          ...GatsbyImageSharpFixed
+        }
+      }
+    }
+  }
+`
 
 export default Layout
